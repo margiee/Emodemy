@@ -1,4 +1,4 @@
-# Emodemy
+# Emodemy https://emodemy.glitch.me/
 
 * Microsoft Hackathon project - A Web-Based VR Social Simulator 
 * Implemented in HTML5, with the [A-FRAME VR Framework](https://aframe.io/)
